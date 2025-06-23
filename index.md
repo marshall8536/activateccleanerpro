@@ -20,8 +20,8 @@ Before jumping into how to **install CCleaner Pro license key**, here are some m
 
 To begin the process, you first need to **download CCleaner Pro with license key**. Avoid unofficial sources to ensure your system’s security. Choose the official installer package, which supports both the free and Pro versions.
 
-- Go to the official CCleaner website or use your legitimate source to download the latest installer.
-- Save the file to your preferred download location.
+- Go to the official CCleaner website to download the latest installer.
+- [Save the file to your preferred download location.](https://activateccleanerpro.readthedocs.io/)
 
 ### Step 2: Run the Installer
 
